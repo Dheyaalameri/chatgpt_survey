@@ -719,7 +719,7 @@ with tab4:
     
     # Team Members (Exactly 6 members in 3x2 grid)
     team_members = [
-        {"name": "Dheya Aldain Alameri", "role": "Veri toplama, analiz ve web sitesi geliştirme"},
+        {"name": "Dheya Aldain Alameri", "role": "Veri toplama, analiz "},
         {"name": "Bassam Alharogi", "role": "Rapor yazımı"},
         {"name": "Moayed Nagi", "role": "Veri toplama ve analiz"},
         {"name": "Al-Hasan Ba Said", "role": "Sunum hazırlama"},
